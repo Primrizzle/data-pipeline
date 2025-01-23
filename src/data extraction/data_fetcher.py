@@ -1,1 +1,0 @@
-# Module to fetch data using the API client
